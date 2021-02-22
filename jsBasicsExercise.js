@@ -5,7 +5,7 @@ console.log(42);
 // PRIMITIVES (Data Types are Numbers, Strings, Booleans, Null & Undefined)
 
 // THREE
-// OPERATORS (Addition, Subtraction, Multipication, Division, Exponentiation, Modulus)
+// OPERATORS (Addition +, Subtraction -, Multipication *, Division /, Exponentiation **, Modulus %)
 
 // FOUR
 console.log(5%2);
